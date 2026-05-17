@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate Data Scientist pursuing a Master's degree at Penn State University. Interested in full-time data science, data analysis, or machine learning opportunities.</h3>
 
-- 🔭 I’m currently working on **Buildinig CICD pipeline project**
+- 🔭 I’m currently working on **Buildinig Agentic RAG and FinGuard MLOPs projects**
 
 ## **A REVIEW OF MY RECENT PROJECTS**
 1. **Financial Fraud Guardian System**
